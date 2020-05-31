@@ -1,0 +1,15 @@
+{
+    "Group4": {
+        "item": {
+            "1": "J’aime mon travail :",
+            "2": "Globalement, je me sens bien dans l’entreprise :",
+            "notation": {
+                "0": "non, pas du tout",
+                "1": "plutôt non",
+                "2": "ni oui, ni non",
+                "3": "plutôt oui",
+                "4": "oui, tout à fait"
+            }
+        }
+    }
+}

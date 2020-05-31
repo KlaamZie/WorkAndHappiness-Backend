@@ -1,0 +1,182 @@
+{
+    "Group1": {
+        "item": {
+            "1": "Je trouve que ma santé est globalement :",
+            "2": "Par rapport à l’année dernière, ma santé est :",
+            "notation": {
+                "0": "très mauvais(e)",
+                "1": "mauvais(e)",
+                "2": "ni bon(ne), ni mauvais(e)",
+                "3": "bon(ne)",
+                "4": "très bon(ne)"
+            }
+        },
+        "item1": {
+            "1": "Je trouve que mon moral est globalement :",
+            "2": "Ma confiance en l’avenir est globalement :",
+            "notation": {
+                "0": "très mauvais(e)",
+                "1": "mauvais(e)",
+                "2": "ni bon(ne), ni mauvais(e)",
+                "3": "bon(ne)",
+                "4": "très bon(ne)"
+            }
+        },
+        "item2": {
+            "1": "J'ai des douleurs dans le dos ou dans le cou :",
+            "2": "J'ai des douleurs dans les bras (épaule, coude, poignet, main) :",
+            "3": "J'ai des douleurs dans les jambes (hanche, genou, cheville, pied) :",
+            "4": "J'ai des douleurs quand je fais certains gestes ou dans certaines postures :",
+            "notation": {
+                "0": "tous les jours ou presque",
+                "1": "1 ou 2 fois par semaine",
+                "2": "1 ou 2 fois par mois",
+                "3": "1 ou 2 fois depuis 6 mois",
+                "4": "jamais depuis 6 mois"
+            }
+        },
+        "item3": {
+            "1": "J'ai des difficultés à dormir :",
+            "2": "J'ai des maux de tête :",
+            "3": "J'ai des problèmes de digestion (exemples : brûlures d’estomac, ballonnements, diarrhée) :",
+            "4": "J'ai des douleurs dans la poitrine :",
+            "notation": {
+                "0": "tous les jours ou presque",
+                "1": "1 ou 2 fois par semaine",
+                "2": "1 ou 2 fois par mois",
+                "3": "1 ou 2 fois depuis 6 mois",
+                "4": "jamais depuis 6 mois"
+            }
+        },
+        "item4": {
+            "1": "Je me sens stressé(e) par mon travail :",
+            "2": "Je sens que je craque à cause de mon travail :",
+            "3": "Je me sens lessivé(e) par mon travail :",
+            "notation": {
+                "0": "en permanence",
+                "1": "souvent",
+                "2": "parfois",
+                "3": "rarement",
+                "4": "jamais"
+            }
+        }
+    },
+    "Group2": {
+        "item": {
+            "1": "Concernant les efforts physiques que je dois fournir, mon travail est :",
+            "2": "Concernant les efforts de réflexion ou d’attention que je dois fournir, mon travail est :",
+            "3": "Concernant les efforts que je dois fournir pour contrôler mes émotions (ne pas m’énerver, ne pas “craquer”, m’entendre avec les autres, ...), mon travail est :",
+            "4": "Concernant les connaissances ou compétences que je dois utiliser, mon travail est :",
+            "notation": {
+                "0": "très dur",
+                "1": "dur",
+                "2": "ni facile, ni dur",
+                "3": "facile",
+                "4": "très facile"
+            }
+        },
+        "item1": {
+            "1": "Mes capacités physiques sont :",
+            "2": "Mes capacités de réflexion ou d’attention sont :",
+            "3": "Mes capacités à contrôler mes émotions sont :",
+            "4": "Mes connaissances ou compétences sont :",
+            "notation": {
+                "0": "largement insuffisantes",
+                "1": "plutôt insuffisantes",
+                "2": "adaptées",
+                "3": "plus importantes que nécessaire",
+                "4": "largement plus importantes que nécessaire"
+            }
+        }
+    },
+    "Group3": {
+        "item": {
+            "1": "Les caractéristiques physiques de mon environnement de travail (ambiance sonore, lumineuse, conditions climatiques...) :",
+            "2": "La prise en compte des risques liés à mon travail :",
+            "3": "L’aménagement des lieux où je travaille :",
+            "4": "L’aspect général des lieux où je travaille",
+            "5": "Le matériel dont je dispose pour travailler (adapté, en bon état, quantité suffisante...) :",
+            "6": "Globalement, mon environnement physique de travail :",
+            "notation": {
+                "0": "me contrarie fortement",
+                "1": "ne me convient pas",
+                "2": "je fais avec",
+                "3": "me convient",
+                "4": "contribue à mon épanouissement"
+            }
+        },
+        "item1": {
+            "1": "L’intérêt que je trouve dans mon travail :",
+            "2": "La variété de ce que je fais dans mon travail :",
+            "3": "L’utilité de ce que je fais :",
+            "4": "Les responsabilités qui me sont données :",
+            "5": "La diversité des contacts que mon travail entraîne :",
+            "6": "La qualité des relations que j’ai avec les personnes extérieures à l’entreprise :",
+            "7": "Globalement, ce que je fais dans mon travail (exigences, variété, utilité, ...) :",
+            "notation": {
+                "0": "me contrarie fortement",
+                "1": "ne me convient pas",
+                "2": "je fais avec",
+                "3": "me convient",
+                "4": "contribue à mon épanouissement"
+            }
+        },
+        "item2": {
+            "1": "La clarté des informations que l’on me donne pour réaliser mon travail :",
+            "2": "La cohérence des informations précisant ce que l’on attend de moi (consignes, objectifs, procédures, ...) :",
+            "3": "La cohérence entre ce que je fais et la définition de mon poste :",
+            "4": "La manière dont l’équipe est dirigée :",
+            "5": "Les possibilités de savoir si mon travail est de qualité ou non :",
+            "6": "La liberté que j’ai dans la manière de réaliser mon travail :",
+            "7": "La liberté d’adapter mon rythme de travail :",
+            "8": "Les liens (de dépendance, de complémentarité) entre mon travail et celui des autres personnes :",
+            "9": "L’aide que je reçois pour mener à bien mon travail :",
+            "10": "Le soutien moral que je peux recevoir au travail :",
+            "11": "Les interruptions qui ont lieu dans mon travail (demandes imprévues, sollicitations téléphoniques, ...) :",
+            "12": "Les délais dont je dispose pour faire mon travail :",
+            "13": "Globalement, le cadrage de mon activité :",
+            "notation": {
+                "0": "me contrarie fortement",
+                "1": "ne me convient pas",
+                "2": "je fais avec",
+                "3": "me convient",
+                "4": "contribue à mon épanouissement"
+            }
+        },
+        "item3": {
+            "1": "Mes horaires de travail :",
+            "2": "Le nombre d’heures que je consacre à mon travail :",
+            "3": "La manière dont je peux évoluer dans l’entreprise :",
+            "4": "Ma rémunération :",
+            "5": "Les possibilités de développer mes compétences (formations, ...) :",
+            "6": "Les modalités d’évaluation de mon travail :",
+            "7": "La manière dont les personnes sont traitées dans l’entreprise (reconnaissance, justice, ...) :",
+            "8": "La manière dont les avis des personnes sont pris en compte dans l’entreprise :",
+            "9": "L’ambiance qui règne dans l’entreprise :",
+            "10": "La communication de l’entreprise sur ses choix et ses objectifs :",
+            "11": "Le niveau de sécurité d’emploi dans l’entreprise :",
+            "12": "Les évolutions de l’entreprise et du secteur :",
+            "13": "Globalement, le contexte organisationnel :",
+            "notation": {
+                "0": "me contrarie fortement",
+                "1": "ne me convient pas",
+                "2": "je fais avec",
+                "3": "me convient",
+                "4": "contribue à mon épanouissement"
+            }
+        }
+    },
+    "Group4": {
+        "item": {
+            "1": "J’aime mon travail :",
+            "2": "Globalement, je me sens bien dans l’entreprise :",
+            "notation": {
+                "0": "non, pas du tout",
+                "1": "plutôt non",
+                "2": "ni oui, ni non",
+                "3": "plutôt oui",
+                "4": "oui, tout à fait"
+            }
+        }
+    }
+}

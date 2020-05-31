@@ -1,0 +1,30 @@
+{
+    "Group1": {
+        "item": {
+            "1": "Je trouve que ma santé est globalement :",
+            "2": "Par rapport à l’année dernière, ma santé est :",
+            "notation": {
+                "0": "très mauvais(e)",
+                "1": "mauvais(e)",
+                "2": "ni bon(ne), ni mauvais(e)",
+                "3": "bon(ne)",
+                "4": "très bon(ne)"
+            }
+        }
+    },
+    "Group2": {
+        "item": {
+            "1": "Concernant les efforts physiques que je dois fournir, mon travail est :",
+            "2": "Concernant les efforts de réflexion ou d’attention que je dois fournir, mon travail est :",
+            "3": "Concernant les efforts que je dois fournir pour contrôler mes émotions (ne pas m’énerver, ne pas “craquer”, m’entendre avec les autres, ...), mon travail est :",
+            "4": "Concernant les connaissances ou compétences que je dois utiliser, mon travail est :",
+            "notation": {
+                "0": "très dur",
+                "1": "dur",
+                "2": "ni facile, ni dur",
+                "3": "facile",
+                "4": "très facile"
+            }
+        }
+    }
+}

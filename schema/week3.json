@@ -1,0 +1,34 @@
+{
+    "Group2": {
+        "item": {
+            "1": "Concernant les efforts physiques que je dois fournir, mon travail est :",
+            "2": "Concernant les efforts de réflexion ou d’attention que je dois fournir, mon travail est :",
+            "3": "Concernant les efforts que je dois fournir pour contrôler mes émotions (ne pas m’énerver, ne pas “craquer”, m’entendre avec les autres, ...), mon travail est :",
+            "4": "Concernant les connaissances ou compétences que je dois utiliser, mon travail est :",
+            "notation": {
+                "0": "très dur",
+                "1": "dur",
+                "2": "ni facile, ni dur",
+                "3": "facile",
+                "4": "très facile"
+            }
+        }
+    },
+    "Group3": {
+        "item": {
+            "1": "Les caractéristiques physiques de mon environnement de travail (ambiance sonore, lumineuse, conditions climatiques...) :",
+            "2": "La prise en compte des risques liés à mon travail :",
+            "3": "L’aménagement des lieux où je travaille :",
+            "4": "L’aspect général des lieux où je travaille",
+            "5": "Le matériel dont je dispose pour travailler (adapté, en bon état, quantité suffisante...) :",
+            "6": "Globalement, mon environnement physique de travail :",
+            "notation": {
+                "0": "me contrarie fortement",
+                "1": "ne me convient pas",
+                "2": "je fais avec",
+                "3": "me convient",
+                "4": "contribue à mon épanouissement"
+            }
+        }
+    }
+}
